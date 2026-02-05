@@ -71,14 +71,8 @@ I’m 26 years old and a web developer. I’m currently in my final semester of 
 <h3 align="center">🤝🏻 &nbsp;Connect with me:</h3>
 
 <p align="center">
-  <a href="mailto:mthabatadenise@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/thabata-denise-monteiro-ba972a397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/34651350481" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
