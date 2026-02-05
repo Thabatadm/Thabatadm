@@ -1,7 +1,8 @@
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
 </div>
-
 <h3 align="center">
   Hi, I'm Thabata Monteiro
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,12 +12,6 @@
 <p>
 I’m 26 years old and a web developer. I’m currently in my final semester of the Higher Degree in Web Application Development (DAW) at the Universitat Oberta de Catalunya. I’m passionate about new technologies, and for me, writing code and creating things feels almost like magic. I enjoy learning continuously, building projects, and improving my skills. My goal is to keep growing as a professional and contribute with motivation and creativity to every project I work on.
 </p>
-</div>
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
 </div>
 
 <h3 align="center">🛠 Languages & Tools</h3>
